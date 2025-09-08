@@ -43,8 +43,8 @@ Reg No: 212224230134
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ### PROGRAM
-# DEVELOPED BY: Surothaaman R
-# REGISTER NO: 212222103003
+# DEVELOPED BY: M.Krithika Lakshmi
+# REGISTER NO: 212224230134
 ```class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
